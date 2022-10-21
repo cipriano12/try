@@ -1,0 +1,296 @@
+#EXTM3U
+#EXTINF:-1,UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Pluto Peleas
+https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f3e7bfdc-7af4-11eb-8477-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,AAA Worldwide
+https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1,ADRENALINA
+http://tecnotv.club/coo/smartv.php?c=265_&f=.m3u8
+#EXTINF:-1,AyM Sports
+http://tecnotv.club/coo/smartv.php?c=262_&f=.m3u8
+#EXTINF:-1,BASKET AMERICAS
+http://tecnotv.club/coo/smartv.php?c=1572_&f=.m3u8
+#EXTINF:-1,BEIN SPORTS Ñ
+http://tecnotv.club/coo/smartv.php?c=1844_&f=.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://tecnotv.club/coo/smartv.php?c=1844_&f=.m3u8
+#EXTINF:-1,BEIN SPORT
+http://tecnotv.club/coo/smartv.php?c=1868_&f=.m3u8
+#EXTINF:-1,ESPN Deportes
+http://tecnotv.club/coo/smartv.php?c=1837_&f=.m3u8
+#EXTINF:-1,ESPN 1 MX
+http://tecnotv.club/coo/smartv.php?c=1876_&f=.m3u8
+#EXTINF:-1,ESPN 2 MX
+http://tecnotv.club/coo/smartv.php?c=131_&f=.m3u8
+#EXTINF:-1,ESPN 3 MX
+http://tecnotv.club/coo/smartv.php?c=1391_&f=.m3u8
+#EXTINF:-1,FOX SPORTS 1 MX
+http://tecnotv.club/coo/smartv.php?c=1873_&f=.m3u8
+#EXTINF:-1,FOX SPORTS 2 MX
+http://tecnotv.club/coo/smartv.php?c=260_&f=.m3u8
+#EXTINF:-1,FOX SPORTS 3 MX
+http://tecnotv.club/coo/smartv.php?c=261_&f=.m3u8
+#EXTINF:-1,CARACOL ***
+http://tecnotv.club/coo/smartv.php?c=74_&f=.m3u8
+#EXTINF:-1,GALAVISION
+http://tecnotv.club/coo/smartv.php?c=1756_&f=.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://tecnotv.club/coo/smartv.php?c=253_&f=.m3u8
+#EXTINF:-1,NBCSN
+http://tecnotv.club/coo/smartv.php?c=1789_&f=.m3u8
+#EXTINF:-1,FOX NFL
+http://tecnotv.club/coo/smartv.php?c=83_&f=.m3u8
+#EXTINF:-1,HAVOC
+http://tecnotv.club/coo/smartv.php?c=266_&f=.m3u8
+#EXTINF:-1,LAS Deportes
+http://tecnotv.club/coo/smartv.php?c=263_&f=.m3u8
+#EXTINF:-1,RCN***
+http://tecnotv.club/coo/smartv.php?c=47_&f=.m3u8
+#EXTINF:-1,TELEMUNDO
+http://tecnotv.club/coo/smartv.php?c=1779_&f=.m3u8
+#EXTINF:-1,TUDN MX
+http://tecnotv.club/coo/smartv.php?c=267_&f=.m3u8
+#EXTINF:-1,TUDN US
+http://tecnotv.club/coo/smartv.php?c=1782_&f=.m3u8
+#EXTINF:-1,TVC Deportes
+http://tecnotv.club/coo/smartv.php?c=264_&f=.m3u8
+#EXTINF:-1,AZTECA UNO MX
+http://tecnotv.club/coo/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1,CANAL 2 MX
+http://tecnotv.club/coo/smartv.php?c=135_&f=.m3u8
+#EXTINF:-1,CANAL 5 MX
+http://tecnotv.club/coo/smartv.php?c=134_&f=.m3u8
+#EXTINF:-1,AZTECA 7 MX
+http://tecnotv.club/coo/smartv.php?c=133_&f=.m3u8
+#EXTINF:-1,NUEVE
+http://tecnotv.club/coo/smartv.php?c=1541_&f=.m3u8
+#EXTINF:-1,IMAGEN TV
+http://tecnotv.club/coo/smartv.php?c=130_&f=.m3u8
+#EXTINF:-1,STAR ACTION
+http://tecnotv.club/coo/smartv.php?c=170_&f=.m3u8
+#EXTINF:-1,SPACE
+http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
+#EXTINF:-1,UNIMAS
+http://tecnotv.club/coo/smartv.php?c=1784_&f=.m3u8
+#EXTINF:-1,UNIVERSO
+http://tecnotv.club/coo/smartv.php?c=1849_&f=.m3u8
+#EXTINF:-1,USA Network
+http://tecnotv.club/coo/smartv.php?c=1856_&f=.m3u8
+#EXTINF:-1,STAR Action
+http://tecnotv.club/coo/smartv.php?c=1496_&f=.m3u8
+http://tecnotv.club/coo/smartv.php?c=1557_&f=.m3u8
+#EXTINF:-1,STAR Cinema *
+http://tecnotv.club/coo/smartv.php?c=1626_&f=.m3u8
+#EXTINF:-1,STAR Comedy *
+http://tecnotv.club/coo/smartv.php?c=234_&f=.m3u8
+#EXTINF:-1,STAR Classics
+http://tecnotv.club/coo/smartv.php?c=1498_&f=.m3u8
+#EXTINF:-1,STAR Family
+http://tecnotv.club/coo/smartv.php?c=235_&f=.m3u8
+#EXTINF:-1,STAR Hits
+http://tecnotv.club/coo/smartv.php?c=167_&f=.m3u8
+#EXTINF:-1,STAR Series
+http://tecnotv.club/coo/smartv.php?c=1495_&f=.m3u8
+#EXTINF:-1,GOLDEN *
+http://tecnotv.club/coo/smartv.php?c=166_&f=.m3u8
+#EXTINF:-1,Golden EDGE
+http://tecnotv.club/coo/smartv.php?c=169_&f=.m3u8
+#EXTINF:-1,GOLDEN Plus *
+http://tecnotv.club/coo/smartv.php?c=1704_&f=.m3u8
+#EXTINF:-1,Golden PREMIER *
+http://tecnotv.club/coo/smartv.php?c=1704_&f=.m3u8
+#EXTINF:-1,HBO
+http://tecnotv.club/coo/smartv.php?c=1467_&f=.m3u8
+#EXTINF:-1,HBO 2
+http://tecnotv.club/coo/smartv.php?c=1555_&f=.m3u8
+#EXTINF:-1,HBO Plus
+http://tecnotv.club/coo/smartv.php?c=1500_&f=.m3u8
+#EXTINF:-1,HBO Mundi *
+http://tecnotv.club/coo/smartv.php?c=1535_&f=.m3u8
+#EXTINF:-1,HBO POP *
+http://tecnotv.club/coo/smartv.php?c=1855_&f=.m3u8
+#EXTINF:-1,HBO Signature *
+http://tecnotv.club/coo/smartv.php?c=229_&f=.m3u8
+#EXTINF:-1,HBO Xtreme
+http://tecnotv.club/coo/smartv.php?c=1536_&f=.m3u8
+#EXTINF:-1,GALAVISION
+http://tecnotv.club/coo/smartv.php?c=87_&f=.m3u8
+#EXTINF:-1,TELEMUNDO
+http://tecnotv.club/coo/smartv.php?c=1778_&f=.m3u8
+#EXTINF:-1,UNIMAS
+http://tecnotv.club/coo/smartv.php?c=86_&f=.m3u8
+#EXTINF:-1,AZ CORAZON
+http://tecnotv.club/coo/smartv.php?c=1676_&f=.m3u8
+#EXTINF:-1,A&E
+http://tecnotv.club/coo/smartv.php?c=1476_&f=.m3u8
+#EXTINF:-1,AXN
+http://tecnotv.club/coo/smartv.php?c=140_&f=.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://tecnotv.club/coo/smartv.php?c=1483_&f=.m3u8
+#EXTINF:-1,Entertaiment
+http://tecnotv.club/coo/smartv.php?c=1524_&f=.m3u8
+#EXTINF:-1,STAR Channel
+http://tecnotv.club/coo/smartv.php?c=1474_&f=.m3u8
+#EXTINF:-1,STAR LIFE
+http://tecnotv.club/coo/smartv.php?c=1559_&f=.m3u8
+#EXTINF:-1,FX
+http://tecnotv.club/coo/smartv.php?c=142_&f=.m3u8
+#EXTINF:-1,Investigation Discovery
+http://tecnotv.club/coo/smartv.php?c=1512_&f=.m3u8
+#EXTINF:-1,SONY Channel
+http://tecnotv.club/coo/smartv.php?c=143_&f=.m3u8
+#EXTINF:-1,Tele Novelas
+http://tecnotv.club/coo/smartv.php?c=79_&f=.m3u8
+#EXTINF:-1,TBS
+http://tecnotv.club/coo/smartv.php?c=1548_&f=.m3u8
+#EXTINF:-1,TNT Series
+http://tecnotv.club/coo/smartv.php?c=1510_&f=.m3u8
+#EXTINF:-1,UNIVERSAL TV
+http://tecnotv.club/coo/smartv.php?c=1546_&f=.m3u8
+#EXTINF:-1,WARNER TV
+http://tecnotv.club/coo/smartv.php?c=146_&f=.m3u8
+#EXTINF:-1,AZ CINEMA
+http://tecnotv.club/coo/smartv.php?c=93_&f=.m3u8
+#EXTINF:-1,AMC *
+http://tecnotv.club/coo/smartv.php?c=1672_&f=.m3u8
+#EXTINF:-1,CINECANAL
+http://tecnotv.club/coo/smartv.php?c=1482_&f=.m3u8
+#EXTINF:-1,CINEMAX
+http://tecnotv.club/coo/smartv.php?c=1518_&f=.m3u8
+#EXTINF:-1,CINE LATINO
+http://tecnotv.club/coo/smartv.php?c=85_&f=.m3u8
+#EXTINF:-1,FILM & ARTS
+http://tecnotv.club/coo/smartv.php?c=1527_&f=.m3u8
+#EXTINF:-1,FXM
+http://tecnotv.club/coo/smartv.php?c=177_&f=.m3u8
+#EXTINF:-1,ISAT
+http://tecnotv.club/coo/smartv.php?c=1533_&f=.m3u8
+#EXTINF:-1,MULTICINEMA
+http://tecnotv.club/coo/smartv.php?c=1867_&f=.m3u8
+#EXTINF:-1,MULTIPREMIER
+http://tecnotv.club/coo/smartv.php?c=1710_&f=.m3u8
+#EXTINF:-1,PARAMOUNT
+http://tecnotv.club/coo/smartv.php?c=1543_&f=.m3u8
+#EXTINF:-1,SPACE
+http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
+#EXTINF:-1,STUDIO Universal *
+http://tecnotv.club/coo/smartv.php?c=1720_&f=.m3u8
+#EXTINF:-1,SYFY
+http://tecnotv.club/coo/smartv.php?c=1547_&f=.m3u8
+#EXTINF:-1,TCM *
+http://tecnotv.club/coo/smartv.php?c=1724_&f=.m3u8
+#EXTINF:-1,TNT
+http://tecnotv.club/coo/smartv.php?c=1472_&f=.m3u8
+#EXTINF:-1,ANIMAL Planet
+http://tecnotv.club/coo/smartv.php?c=1513_&f=.m3u8
+#EXTINF:-1,DISCOVERY Channel
+http://tecnotv.club/coo/smartv.php?c=1486_&f=.m3u8
+#EXTINF:-1,Discovery SCIENCE
+http://tecnotv.club/coo/smartv.php?c=1519_&f=.m3u8
+#EXTINF:-1,Discovery THEATER
+http://tecnotv.club/coo/smartv.php?c=1551_&f=.m3u8
+#EXTINF:-1,Discovery TURBO
+http://tecnotv.club/coo/smartv.php?c=1511_&f=.m3u8
+#EXTINF:-1,LIFE TIME
+http://tecnotv.club/coo/smartv.php?c=1528_&f=.m3u8
+#EXTINF:-1,HISTORY Channel
+http://tecnotv.club/coo/smartv.php?c=201_&f=.m3u8
+#EXTINF:-1,Histrory 2
+http://tecnotv.club/coo/smartv.php?c=1531_&f=.m3u8
+#EXTINF:-1,Home &amp; Health
+http://tecnotv.club/coo/smartv.php?c=199_&f=.m3u8
+#EXTINF:-1,HOLA TV
+http://tecnotv.club/coo/smartv.php?c=1564_&f=.m3u8
+#EXTINF:-1,MAS CHIC
+http://tecnotv.club/coo/smartv.php?c=190_&f=.m3u8
+#EXTINF:-1,NATGEO
+http://tecnotv.club/coo/smartv.php?c=1508_&f=.m3u8
+#EXTINF:-1,Natgeo WILD
+http://tecnotv.club/coo/smartv.php?c=1507_&f=.m3u8
+#EXTINF:-1,TLC Discovery
+http://tecnotv.club/coo/smartv.php?c=1563_&f=.m3u8
+#EXTINF:-1,A MAS MX
+http://tecnotv.club/coo/smartv.php?c=1_&f=.m3u8
+#EXTINF:-1,AZTECA UNO MX
+http://tecnotv.club/coo/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1,CANAL 5 MX
+http://tecnotv.club/coo/smartv.php?c=134_&f=.m3u8
+#EXTINF:-1,AZTECA 7
+http://tecnotv.club/coo/smartv.php?c=133_&f=.m3u8
+#EXTINF:-1,IMAGEN TV
+http://tecnotv.club/coo/smartv.php?c=130_&f=.m3u8
+#EXTINF:-1,MULTIMEDIOS
+http://tecnotv.club/coo/smartv.php?c=1862_&f=.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://tecnotv.club/coo/smartv.php?c=138_&f=.m3u8
+#EXTINF:-1,UNICABLE MX
+http://tecnotv.club/coo/smartv.php?c=1871_&f=.m3u8
+#EXTINF:-1,MVSTV MX
+http://tecnotv.club/coo/smartv.php?c=129_&f=.m3u8
+#EXTINF:-1,Cine Latino
+http://tecnotv.club/coo/smartv.php?c=85_&f=.m3u8
+#EXTINF:-1,STAR TVE
+http://tecnotv.club/coo/smartv.php?c=87_&f=.m3u8
+#EXTINF:-1,UniMas
+http://tecnotv.club/coo/smartv.php?c=86_&f=.m3u8
+#EXTINF:-1,CARACOL
+http://tecnotv.club/coo/smartv.php?c=1778_&f=.m3u8
+#EXTINF:-1,RCN
+http://tecnotv.club/coo/smartv.php?c=47_&f=.m3u8
+#EXTINF:-1,KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,Nickelodeon Classic
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1, Pluto Anime TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,Anime Action
+https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,24/7 Kenan & Kel
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,YuGiOh
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1, El Practicante | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1, Parasitos | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1, Verdad o Reto | REGIOFLIX
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:-1, El Dilema de las Redes Sociales | REGIOFLIX
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:-1, El Infierno | REGIOFLIX
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:-1, Volver al Futuro | REGIOFLIX
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:-1, Volver al Futuro 2 | REGIOFLIX
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1, Volver al Futuro 3 | REGIOFLIX
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:-1, Your Name | REGIOFLIX
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1, Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1, Volver al Futuro | REGIOFLIX
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1, Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1, Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1, La Fuerza De La Ilusion | REGIOFLIX
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1, Cuando nos Conocimos | REGIOFLIX
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1, Nosotros Los Nobles | REGIOFLIX
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1, The Cloverfield Paradox | REGIOFLIX
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1, Terminus | REGIOFLIX
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1, JIGSAW VIII | REGIOFLIX
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1, Redada Asesina | REGIOFLIX
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1, SAW VIII SUBTITULADO | REGIOFLIX
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
